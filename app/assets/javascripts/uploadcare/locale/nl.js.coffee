@@ -44,9 +44,9 @@ uploadcare.namespace 'locale.translations', (ns) ->
           url: 'Directe links'
         file:
           drag: 'Drop hier een bestand'
-          nodrop: 'Upload bestanden van je computer'
+          nodrop: 'Upload lokale bestanden'
           or: 'of'
-          button: 'Selecteer een bestand op je computer'
+          button: 'Selecteer een lokaal bestand'
           also: 'Je kan ook selecteren van'
         url:
           title: 'Bestanden op het web'
